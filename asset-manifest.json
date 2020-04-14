@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Moistbobo/cho-web/static/css/main.dd678f2f.chunk.css",
+    "main.js": "/Moistbobo/cho-web/static/js/main.17d6f912.chunk.js",
+    "main.js.map": "/Moistbobo/cho-web/static/js/main.17d6f912.chunk.js.map",
+    "runtime-main.js": "/Moistbobo/cho-web/static/js/runtime-main.8eb77c70.js",
+    "runtime-main.js.map": "/Moistbobo/cho-web/static/js/runtime-main.8eb77c70.js.map",
+    "static/js/2.73d61ade.chunk.js": "/Moistbobo/cho-web/static/js/2.73d61ade.chunk.js",
+    "static/js/2.73d61ade.chunk.js.map": "/Moistbobo/cho-web/static/js/2.73d61ade.chunk.js.map",
+    "index.html": "/Moistbobo/cho-web/index.html",
+    "precache-manifest.8850e6b60d0baa4a5de9ca6bf5c98a61.js": "/Moistbobo/cho-web/precache-manifest.8850e6b60d0baa4a5de9ca6bf5c98a61.js",
+    "service-worker.js": "/Moistbobo/cho-web/service-worker.js",
+    "static/css/main.dd678f2f.chunk.css.map": "/Moistbobo/cho-web/static/css/main.dd678f2f.chunk.css.map",
+    "static/js/2.73d61ade.chunk.js.LICENSE.txt": "/Moistbobo/cho-web/static/js/2.73d61ade.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8eb77c70.js",
+    "static/js/2.73d61ade.chunk.js",
+    "static/css/main.dd678f2f.chunk.css",
+    "static/js/main.17d6f912.chunk.js"
+  ]
+}
